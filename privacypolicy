@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy – Nur</title>
+  <style>
+    body { font-family: -apple-system, Helvetica, sans-serif; margin: 40px; line-height: 1.6; }
+    h1 { color: #007aff; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Nur</h1>
+
+  <p><strong>Effective date:</strong> November 2025</p>
+
+  <p>This app, <strong>Nur</strong>, respects your privacy. No personal data is collected, stored, shared, or transmitted to any external servers or third parties.</p>
+
+  <h2>Location Data</h2>
+  <p>The app may access your device's location <em>only</em> to determine your current position in order to calculate accurate prayer times for your area. This information stays on your device and is never sent anywhere.</p>
+
+  <h2>Data Storage</h2>
+  <p>All settings and preferences are stored locally on your device. None of your data leaves your device.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>Nur app does not use analytics, advertising networks, or external APIs that collect personal data.</p>
+
+  <h2>Contact</h2>
+  <p>If you have any questions about this Privacy Policy, you can contact me at:</p>
+  <p><a href="mailto:nur.app@outlook.com">nur.app@outlook.com</a></p>
+
+</body>
+</html>
